@@ -1,3 +1,3 @@
-<h1> Hello Shishir Kumar Roy - adding image & ansible. Welcome Shishir to Simple DevOps Project !!   </h1>
+<h1> Hello Shishir Kumar Roy - adding image & ansible. Welcome Shishir kumar roy to Simple DevOps Project !!   </h1>
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
 <h2> Glad to see you here </h2>
